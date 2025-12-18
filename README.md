@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sarfenaz Naz 👋</h1>
 
 <p align="center">
-  🖋️ Co-Founder & Editor at <a href="https://www.visernic.uk" target="_blank">Visernic Limited</a> <br/>
+  🖋️ Co-Founder & Editor at <a href="https://www.visernic.com" target="_blank">Visernic Limited</a> <br/>
   🌍 Passionate about digital media, content strategy, and creative innovation <br/>
   🇧🇩 Based in Bangladesh | 🇬🇧 Operating Globally
 </p>
@@ -10,7 +10,7 @@
 
 ### ✨ About Me
 
-- 🧠 Co-Founder & Editor of [Visernic](https://www.visernic.uk)
+- 🧠 Co-Founder & Editor of [Visernic](https://www.visernic.com)
 - 📢 Leading editorial and content direction for digital growth
 - 📍 Helped launch Visernic UK HQ in Southampton in 2025
 - 💬 Advocate for impactful storytelling and digital transformation
@@ -31,9 +31,9 @@ Role: **Co-Founder & Editor**
 
 ### 📫 Connect with Me
 
-- 🌐 [Website](https://www.visernic.uk)
-- 💼 [LinkedIn](#) <!-- Add your LinkedIn if available -->
-- 📧 Email: `sarfenaz@visernic.com` <!-- Add real email -->
+- 🌐 [Website](https://www.visernic.com)
+- 💼 [LinkedIn](#) 
+- 📧 Email: `sarfenaz@visernic.com`
 - 📝 [Press Release](https://www.prlog.org/13091176-visernic-limited-officially-registers-in-the-united-kingdom-expanding-global-digital-services.html)
 
 ---
