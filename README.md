@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sarfenaz Naz 👋</h1>
+<h1 align="center">Hi there, I'm Sarfenaz Naz 👋</h1> 
 
 <p align="center">
   🖋️ Co-Founder & Editor at <a href="https://www.visernic.com" target="_blank">Visernic Limited</a> <br/>
